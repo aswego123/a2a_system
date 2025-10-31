@@ -1,0 +1,4 @@
+# Built-in stdlib only; pinned here for clarity
+# Requires: Python >= 3.9
+
+
